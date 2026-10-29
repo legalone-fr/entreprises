@@ -5,7 +5,14 @@
   "description": "French company data from public registers (Sirene, RNE, BODACC): search, profiles, officers, legal notices.",
   "version": "0.1.0",
   "websiteUrl": "https://legalone.fr/developers",
+  "repository": {
+    "url": "https://github.com/legalone-fr/entreprises",
+    "source": "github"
+  },
   "remotes": [
-    { "type": "streamable-http", "url": "https://mcp.legalone.fr/mcp" }
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.legalone.fr/mcp"
+    }
   ]
 }
