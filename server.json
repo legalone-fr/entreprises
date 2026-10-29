@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "fr.legalone/entreprises",
   "title": "LegalOne Entreprises",
-  "description": "French company data from public registers (Sirene, RNE, BODACC): search, profiles, officers, legal notices.",
+  "description": "French company data from public registers (Sirene, RNE, BODACC) and French legal notices.",
   "version": "0.1.0",
   "websiteUrl": "https://legalone.fr/developers",
   "repository": {
