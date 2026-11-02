@@ -3,8 +3,31 @@
   "name": "fr.legalone/entreprises",
   "title": "LegalOne Entreprises",
   "description": "French company data from public registers (Sirene, RNE, BODACC) and French legal notices.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://legalone.fr/developers",
+  "icons": [
+    {
+      "src": "https://legalone.fr/brand/legalone-square-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://legalone.fr/brand/legalone-square-1024.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "1024x1024"
+      ]
+    },
+    {
+      "src": "https://legalone.fr/brand/legalone-square.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/legalone-fr/entreprises",
     "source": "github"
